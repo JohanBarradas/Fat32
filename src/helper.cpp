@@ -3,6 +3,7 @@
 #include <string>
 #include <sstream>
 #include <string.h>
+#include "../include/helper.h"
 //helper function that returns tokens of a string
 std::vector<std::string> token_separator(char * token) //separates tokens
 {
